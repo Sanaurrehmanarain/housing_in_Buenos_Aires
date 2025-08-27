@@ -1,0 +1,21 @@
+# LESSON 2.4: GOALS
+-----------------------------------------------------------------------
+-	Build a model to predict apartment price.
+-	Evaluate all the features in our dataset for use in our model.
+-	Create two deployments of our trained model.
+
+# LESSON 2.4: HIGHLIGHTS
+-----------------------------------------------------------------------
+I.	Prepare Data
+-		Import: Wrangle function & list comprehension.
+-		Explore: Null values, high-and low-cardinality, leakage, multicollinearity.	
+-		Split 
+
+II.	Build Model
+-		Baseline
+-		Iterate
+-		Evaluate
+
+III.	Communication Results
+-		make_prediction function
+-		Interactive dashboard MVP

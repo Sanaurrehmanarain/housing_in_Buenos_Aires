@@ -1,0 +1,22 @@
+# LESSON 2.3: GOALS
+-----------------------------------------------------------------------
+-	Build a model to predict apartment price based on neighborhood.
+-	Encode categorical data to train a linear model.
+-	Battle overfitting using regularization.
+
+# LESSON 2.3: HIGHLIGHTS
+-----------------------------------------------------------------------
+I.	Prepare Data
+-		Import: Wrangle function & for loop
+-		Explore: Extract neighborhood from string	
+-		Split 
+
+II.	Build Model
+-		Baseline:
+-		Iterate: One-Hot Encoding	
+-		Evaluate: Overfitting
+
+III.	Communication Results
+-		Curse of Dimensionality
+-		Regularization: Ridge Regression
+-		Bar Charts for Coefficients
